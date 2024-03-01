@@ -1,2 +1,2 @@
 # Imagioteca
-Repositório de imagens
+Repositório de imagens e vídeos
